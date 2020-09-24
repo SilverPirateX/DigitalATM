@@ -1,0 +1,93 @@
+#btn9 , .btn
+{
+	color:#000;
+	font: bold 50px "Times New Roman";
+	background-color:#076090;
+	width:auto;
+	text-align:center;
+	border-radius: 5px;
+	margin:20px;
+	margin-top:110px;
+
+
+}
+.btn
+{
+	color:#000;
+	font: bold 50px "Times New Roman";
+	margin:25PX 350PX;
+	background-color:#076090;
+	width:400px;
+	height:90px;
+	text-align:center;
+	border-radius: 15px;
+}
+button
+{
+	cursor:pointer;
+	border:10px outset #043b59;
+}
+details table ,table
+{
+	border:5px solid #076090;
+	width:auto;
+	height:350px;
+	margin-left:-250px;
+	
+
+}
+details table th , table th
+{
+	color:#fff;
+	border: 5px solid #000;
+	padding:5px;
+	font:bold 25px "Times New Roman";
+	text-align:center;
+	background-color:#032234;
+}
+details table td , table td
+{
+	border: 5px solid #032f46;
+	padding:5px;
+	text-align:center;
+	font:bold 25px "Times New Roman";
+	background-color:#076090;
+}
+.record
+{
+	text-align:right;
+	width:500px;
+	margin:-200px 0px 0px 1600px;
+}
+aside details
+{
+	margin: 0px 0px 0px -200px;
+	text-align:right;
+}
+aside details > summary
+{
+	padding:5px;
+	color:#000;
+	background-color:#076090;
+	border:10px outset #043b59;
+	box-shadow: 3px 3px 4px black;
+	width:700px;
+	text-align:center;
+	font-size:30px;
+	cursor:pointer;
+	font-weight: bold;
+}
+.mainsec
+{
+	position:fixed;
+	width:70%;
+}
+aside
+{
+	position:fixed;
+	width:30%;
+}
+.inputsf
+{
+	margin-top:-100px;
+}

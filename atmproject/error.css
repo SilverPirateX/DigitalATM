@@ -1,0 +1,22 @@
+.error2 
+{
+	font-size:35px;
+	margin-left:-600px;
+	margin-top:200px;
+}
+
+.error3
+{
+	color:#f00;
+	font: bold 40px "Times New Roman";
+	background-color:#076090;
+	border:5px solid #000;
+	border-radius: 5px;
+	width:850px;
+	text-align:center;
+	border-style:double;
+	margin-left:850px;
+	margin-top:-180px;
+	margin-bottom:75px;
+
+}

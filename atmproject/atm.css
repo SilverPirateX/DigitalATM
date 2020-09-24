@@ -1,0 +1,82 @@
+/* the style sheet for screen view */
+
+*
+{
+	padding:0;
+	margin:0;
+}
+body
+{
+	background:url('digital1.png') no-repeat;
+	background-size:100%;
+	overflow: hidden;
+}
+h1
+{
+	color:#fff;
+	background-color:#076090;
+	padding:10px;
+	margin-top:5px;
+	text-align:center;
+	border-radius: 35px;
+	font:bold 70px "Time New Roman";
+}
+.mainp
+{
+	font: bold 70px "Time New Roman";
+	padding:50px;
+}
+.mainp span
+{
+	background-color:#076090;
+	font:bold 125px "Time New Roman";
+	border-radius: 35px;
+}
+.thinfont
+{
+	font: 70px "Times New Roman";
+	padding:50px;
+	margin-top: -40px;
+	margin-top:-50px;
+}
+.inp
+{
+	width:500px;
+	font:bold 50px "Times New Roman";
+	text-align:center;
+	margin:25px;
+}
+.btn
+{
+	color:#000;
+	font: bold 50px "Times New Roman";
+	margin:25PX 350PX;
+	background-color:#076090;
+	width:400px;
+	height:90px;
+	text-align:center;
+	border-radius: 15px;
+}
+form
+{
+	margin:80px;
+	margin-left:100px;
+}
+.inputsf
+{
+	margin:0px 80px 0px 80px;
+}
+.error
+{
+	color:#f00;
+	font: bold 40px "Times New Roman";
+	background-color:#076090;
+	border:5px solid #000;
+	border-radius: 5px;
+	width:1000px;
+	text-align:center;
+	border-style:double;
+	margin-top:-100px;
+	margin-left:125px;
+
+}

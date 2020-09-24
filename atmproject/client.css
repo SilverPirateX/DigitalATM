@@ -1,0 +1,62 @@
+body
+{
+	-moz-transform:scale(0.9,0.9);
+	zoom: 0.9;
+	zoom:90%;
+}
+.moneyp
+{
+	display:inline-block;
+	font:bold 60px "Times New Roman";
+	margin:25px 0px 0px 75px;
+}
+.moneyp span
+{
+	color:green;
+}
+.iput2 , select
+{
+	width:300px;
+	font:bold 50px "Times New Roman";
+	text-align:center;
+	margin:25px 25px 0px 0px;
+	border-radius:5px;
+}
+.btn2
+{
+	color:#000;
+	font: bold 50px "Times New Roman";
+	margin:25PX 25PX 0px 0px;
+	background-color:#076090;
+	width:300px;
+	text-align:center;
+	border-radius: 5px;
+}
+.addborder
+{
+	width:1350px;
+	padding:10px;
+	border:5px solid #076090;
+	border-radius:5px;
+
+}
+.addborder label
+{
+	font:bold 60px "Times New Roman";
+
+}
+.error2 
+{
+	color:#f00;
+	font: bold 40px "Times New Roman";
+	background-color:#076090;
+	border:5px solid #000;
+	border-radius: 5px;
+	width:850px;
+	text-align:center;
+	border-style:double;
+	margin-left:850px;
+	margin-top:-180px;
+	margin-bottom:75px;
+
+}
